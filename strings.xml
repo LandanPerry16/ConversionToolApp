@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProgrammingAssignment01</string>
+    <string-array name="length">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>inch</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="weight">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ton</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>`C</item>
+        <item>`F</item>
+        <item>K</item>
+    </string-array>
+</resources>
